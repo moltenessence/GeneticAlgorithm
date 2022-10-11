@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4wc4SZWtIRWaQOdI8VOwuTrzJ/xahU0AXjglE5eTjtV8tQ4hbqNN/cSF1AcYHBASTGfM4POi03qacBtIx33e2A==",
+  "success": true,
+  "projectFilePath": "D:\\GeneticAlgorithm\\GeneticAlgorithm.Graphics\\GeneticAlgorithm.Graphics.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\mindfusion.pack.wpf\\2022.1.0\\mindfusion.pack.wpf.2022.1.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\mindfusion.reporting\\2.5.3\\mindfusion.reporting.2.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

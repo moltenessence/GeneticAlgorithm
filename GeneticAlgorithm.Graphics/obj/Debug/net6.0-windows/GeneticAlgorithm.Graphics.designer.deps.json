@@ -1,0 +1,283 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MindFusion.Pack.Wpf/2022.1.0": {
+        "runtime": {
+          "lib/net6.0-windows7/MindFusion.Barcodes.Wpf.dll": {
+            "assemblyVersion": "1.0.3.600",
+            "fileVersion": "1.0.3.600"
+          },
+          "lib/net6.0-windows7/MindFusion.Barcodes.dll": {
+            "assemblyVersion": "1.0.3.600",
+            "fileVersion": "1.0.3.600"
+          },
+          "lib/net6.0-windows7/MindFusion.Charting.Wpf.dll": {
+            "assemblyVersion": "2.2.1.600",
+            "fileVersion": "2.2.1.600"
+          },
+          "lib/net6.0-windows7/MindFusion.Common.Wpf.dll": {
+            "assemblyVersion": "1.0.2.600",
+            "fileVersion": "1.0.2.600"
+          },
+          "lib/net6.0-windows7/MindFusion.Common.dll": {
+            "assemblyVersion": "1.3.2.600",
+            "fileVersion": "1.3.2.600"
+          },
+          "lib/net6.0-windows7/MindFusion.DataViews.Wpf.dll": {
+            "assemblyVersion": "1.0.5.600",
+            "fileVersion": "1.0.5.600"
+          },
+          "lib/net6.0-windows7/MindFusion.Diagramming.Wpf.DrawImport.dll": {
+            "assemblyVersion": "3.8.2.600",
+            "fileVersion": "3.8.2.600"
+          },
+          "lib/net6.0-windows7/MindFusion.Diagramming.Wpf.DxfExport.dll": {
+            "assemblyVersion": "3.8.2.600",
+            "fileVersion": "3.8.2.600"
+          },
+          "lib/net6.0-windows7/MindFusion.Diagramming.Wpf.ExcelExport.dll": {
+            "assemblyVersion": "3.8.2.600",
+            "fileVersion": "3.8.2.600"
+          },
+          "lib/net6.0-windows7/MindFusion.Diagramming.Wpf.PdfExport.dll": {
+            "assemblyVersion": "3.8.2.600",
+            "fileVersion": "3.8.2.600"
+          },
+          "lib/net6.0-windows7/MindFusion.Diagramming.Wpf.SvgExport.dll": {
+            "assemblyVersion": "3.8.2.600",
+            "fileVersion": "3.8.2.600"
+          },
+          "lib/net6.0-windows7/MindFusion.Diagramming.Wpf.SvgImport.dll": {
+            "assemblyVersion": "3.8.2.600",
+            "fileVersion": "3.8.2.600"
+          },
+          "lib/net6.0-windows7/MindFusion.Diagramming.Wpf.VisioExport.dll": {
+            "assemblyVersion": "3.8.2.600",
+            "fileVersion": "3.8.2.600"
+          },
+          "lib/net6.0-windows7/MindFusion.Diagramming.Wpf.VisioImport.dll": {
+            "assemblyVersion": "3.8.2.600",
+            "fileVersion": "3.8.2.600"
+          },
+          "lib/net6.0-windows7/MindFusion.Diagramming.Wpf.WmfExport.dll": {
+            "assemblyVersion": "3.8.2.600",
+            "fileVersion": "3.8.2.600"
+          },
+          "lib/net6.0-windows7/MindFusion.Diagramming.Wpf.dll": {
+            "assemblyVersion": "3.8.2.600",
+            "fileVersion": "3.8.2.600"
+          },
+          "lib/net6.0-windows7/MindFusion.Excel.Wpf.dll": {
+            "assemblyVersion": "1.0.1.600",
+            "fileVersion": "1.0.1.600"
+          },
+          "lib/net6.0-windows7/MindFusion.Gauges.Wpf.dll": {
+            "assemblyVersion": "1.0.1.600",
+            "fileVersion": "1.0.1.600"
+          },
+          "lib/net6.0-windows7/MindFusion.Graphs.dll": {
+            "assemblyVersion": "2.3.2.600",
+            "fileVersion": "2.3.2.600"
+          },
+          "lib/net6.0-windows7/MindFusion.HolidayProviders.dll": {
+            "assemblyVersion": "1.0.2.600",
+            "fileVersion": "1.0.2.600"
+          },
+          "lib/net6.0-windows7/MindFusion.Keyboard.Wpf.dll": {
+            "assemblyVersion": "5.0.3.600",
+            "fileVersion": "5.0.3.600"
+          },
+          "lib/net6.0-windows7/MindFusion.Licensing.dll": {
+            "assemblyVersion": "1.0.6.500",
+            "fileVersion": "1.0.6.500"
+          },
+          "lib/net6.0-windows7/MindFusion.Mapping.Wpf.dll": {
+            "assemblyVersion": "2.0.2.600",
+            "fileVersion": "2.0.2.600"
+          },
+          "lib/net6.0-windows7/MindFusion.Mapping.dll": {
+            "assemblyVersion": "2.0.2.600",
+            "fileVersion": "2.0.2.600"
+          },
+          "lib/net6.0-windows7/MindFusion.Pdf.dll": {
+            "assemblyVersion": "1.3.2.600",
+            "fileVersion": "1.3.2.600"
+          },
+          "lib/net6.0-windows7/MindFusion.RealTimeCharting.Wpf.dll": {
+            "assemblyVersion": "2.2.1.600",
+            "fileVersion": "2.2.1.600"
+          },
+          "lib/net6.0-windows7/MindFusion.Reporting.Wpf.ExcelExport.dll": {
+            "assemblyVersion": "1.4.3.600",
+            "fileVersion": "1.4.3.600"
+          },
+          "lib/net6.0-windows7/MindFusion.Reporting.Wpf.HtmlExport.dll": {
+            "assemblyVersion": "1.4.3.600",
+            "fileVersion": "1.4.3.600"
+          },
+          "lib/net6.0-windows7/MindFusion.Reporting.Wpf.PdfExport.dll": {
+            "assemblyVersion": "1.4.3.600",
+            "fileVersion": "1.4.3.600"
+          },
+          "lib/net6.0-windows7/MindFusion.Reporting.Wpf.dll": {
+            "assemblyVersion": "1.4.3.600",
+            "fileVersion": "1.4.3.600"
+          },
+          "lib/net6.0-windows7/MindFusion.Scheduling.Wpf.Excel.dll": {
+            "assemblyVersion": "3.5.1.600",
+            "fileVersion": "3.5.1.600"
+          },
+          "lib/net6.0-windows7/MindFusion.Scheduling.Wpf.Reporting.dll": {
+            "assemblyVersion": "3.5.1.600",
+            "fileVersion": "3.5.1.600"
+          },
+          "lib/net6.0-windows7/MindFusion.Scheduling.Wpf.StandardForms.dll": {
+            "assemblyVersion": "3.5.1.600",
+            "fileVersion": "3.5.1.600"
+          },
+          "lib/net6.0-windows7/MindFusion.Scheduling.Wpf.dll": {
+            "assemblyVersion": "3.5.1.600",
+            "fileVersion": "3.5.1.600"
+          },
+          "lib/net6.0-windows7/MindFusion.Scripting.dll": {
+            "assemblyVersion": "1.0.2.600",
+            "fileVersion": "1.0.2.600"
+          },
+          "lib/net6.0-windows7/MindFusion.Spreadsheet.Wpf.PdfExport.dll": {
+            "assemblyVersion": "1.3.2.602",
+            "fileVersion": "1.3.2.602"
+          },
+          "lib/net6.0-windows7/MindFusion.Spreadsheet.Wpf.StandardForms.dll": {
+            "assemblyVersion": "1.3.2.602",
+            "fileVersion": "1.3.2.602"
+          },
+          "lib/net6.0-windows7/MindFusion.Spreadsheet.Wpf.dll": {
+            "assemblyVersion": "1.3.2.602",
+            "fileVersion": "1.3.2.602"
+          },
+          "lib/net6.0-windows7/MindFusion.Svg.Wpf.dll": {
+            "assemblyVersion": "1.2.2.600",
+            "fileVersion": "1.2.2.600"
+          },
+          "lib/net6.0-windows7/MindFusion.Svg.dll": {
+            "assemblyVersion": "1.2.2.600",
+            "fileVersion": "1.2.2.600"
+          },
+          "lib/net6.0-windows7/MindFusion.Themes.Wpf.dll": {
+            "assemblyVersion": "1.1.3.600",
+            "fileVersion": "1.1.3.600"
+          },
+          "lib/net6.0-windows7/MindFusion.UI.Wpf.dll": {
+            "assemblyVersion": "1.2.0.600",
+            "fileVersion": "1.2.0.600"
+          },
+          "lib/net6.0-windows7/MindFusion.Vsx.dll": {
+            "assemblyVersion": "1.0.3.600",
+            "fileVersion": "1.0.3.600"
+          },
+          "lib/net6.0-windows7/MindFusion.Zip.dll": {
+            "assemblyVersion": "1.0.1.600",
+            "fileVersion": "1.0.1.600"
+          }
+        }
+      },
+      "MindFusion.Reporting/2.5.3": {
+        "runtime": {
+          "lib/net5.0/MindFusion.Barcodes.dll": {
+            "assemblyVersion": "1.0.3.500",
+            "fileVersion": "1.0.3.500"
+          },
+          "lib/net5.0/MindFusion.Charting.dll": {
+            "assemblyVersion": "4.1.3.500",
+            "fileVersion": "4.1.3.500"
+          },
+          "lib/net5.0/MindFusion.Common.Design.dll": {
+            "assemblyVersion": "1.3.4.500",
+            "fileVersion": "1.3.4.500"
+          },
+          "lib/net5.0/MindFusion.Common.dll": {
+            "assemblyVersion": "1.3.5.500",
+            "fileVersion": "1.3.5.500"
+          },
+          "lib/net5.0/MindFusion.DataBinding.dll": {
+            "assemblyVersion": "2.5.3.500",
+            "fileVersion": "2.5.3.500"
+          },
+          "lib/net5.0/MindFusion.Excel.dll": {
+            "assemblyVersion": "1.0.2.500",
+            "fileVersion": "1.0.2.500"
+          },
+          "lib/net5.0/MindFusion.Gauges.dll": {
+            "assemblyVersion": "1.0.1.500",
+            "fileVersion": "1.0.1.500"
+          },
+          "lib/net5.0/MindFusion.Licensing.dll": {
+            "assemblyVersion": "1.0.6.500",
+            "fileVersion": "1.0.6.500"
+          },
+          "lib/net5.0/MindFusion.Pdf.dll": {
+            "assemblyVersion": "1.3.2.500",
+            "fileVersion": "1.3.2.500"
+          },
+          "lib/net5.0/MindFusion.Reporting.Design.dll": {
+            "assemblyVersion": "2.5.3.500",
+            "fileVersion": "2.5.3.500"
+          },
+          "lib/net5.0/MindFusion.Reporting.Editor.dll": {
+            "assemblyVersion": "2.5.3.500",
+            "fileVersion": "2.5.3.500"
+          },
+          "lib/net5.0/MindFusion.Reporting.Excel.dll": {
+            "assemblyVersion": "2.5.3.500",
+            "fileVersion": "2.5.3.500"
+          },
+          "lib/net5.0/MindFusion.Reporting.Html.dll": {
+            "assemblyVersion": "2.5.3.500",
+            "fileVersion": "2.5.3.500"
+          },
+          "lib/net5.0/MindFusion.Reporting.Pdf.dll": {
+            "assemblyVersion": "2.5.3.500",
+            "fileVersion": "2.5.3.500"
+          },
+          "lib/net5.0/MindFusion.Reporting.WinForms.dll": {
+            "assemblyVersion": "2.5.3.500",
+            "fileVersion": "2.5.3.500"
+          },
+          "lib/net5.0/MindFusion.Reporting.dll": {
+            "assemblyVersion": "2.5.3.500",
+            "fileVersion": "2.5.3.500"
+          },
+          "lib/net5.0/MindFusion.Scripting.dll": {
+            "assemblyVersion": "1.0.2.500",
+            "fileVersion": "1.0.2.500"
+          },
+          "lib/net5.0/MindFusion.Zip.dll": {
+            "assemblyVersion": "1.0.1.500",
+            "fileVersion": "1.0.1.500"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MindFusion.Pack.Wpf/2022.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kBFDB+UjtTtvzURYGVZdNx9qN3GxvfOCTPD1M6Td2DRm5eqnyWm98/tzkXJRsbs35u+MS5qVtYU3kKZzMjuEqA==",
+      "path": "mindfusion.pack.wpf/2022.1.0",
+      "hashPath": "mindfusion.pack.wpf.2022.1.0.nupkg.sha512"
+    },
+    "MindFusion.Reporting/2.5.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-s5HaGHDvgWIUB5vNMDybhD0yxPw2aVLRK8GDuiOjO2gQ4wojTpe8Zw1xr4uhEmCJqdcTAV+CE5Rq9OMaWdjAxg==",
+      "path": "mindfusion.reporting/2.5.3",
+      "hashPath": "mindfusion.reporting.2.5.3.nupkg.sha512"
+    }
+  }
+}

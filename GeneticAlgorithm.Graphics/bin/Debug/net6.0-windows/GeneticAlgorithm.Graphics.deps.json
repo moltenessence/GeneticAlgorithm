@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "GeneticAlgorithm.Graphics/1.0.0": {
+        "dependencies": {
+          "GeneticAlgorithm": "1.0.0"
+        },
+        "runtime": {
+          "GeneticAlgorithm.Graphics.dll": {}
+        }
+      },
+      "GeneticAlgorithm/1.0.0": {
+        "runtime": {
+          "GeneticAlgorithm.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GeneticAlgorithm.Graphics/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GeneticAlgorithm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
